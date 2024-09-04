@@ -10,4 +10,7 @@ export class AccountEntity extends BaseEntity {
 
   @Column('text', { name: 'name' })
   name: string;
+
+  @Column('text', { name: 'email' })
+  email: string;
 }
