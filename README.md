@@ -1,3 +1,3 @@
 # SET
-Repo for AI app
+Repo for AI app test
 
